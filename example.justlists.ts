@@ -1,5 +1,5 @@
 {
-    "name":"JustSwap Default List",
+    "name":"ProfitMarketing",
     "tokens":[
         {
             "symbol":"SUN",
